@@ -7,7 +7,6 @@ Install: pip install streamlit plotly pandas numpy requests openai fpdf2
 import numpy as np
 import pandas as pd
 import streamlit as st
-import plotly.graph_objects as go
 import requests
 from io import StringIO
 import openai
